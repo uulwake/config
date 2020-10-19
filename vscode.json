@@ -30,7 +30,7 @@
       ],
       "after": [
         "<esc>"
-      ],
+      ]
     }
   ],
   "vim.handleKeys": {
