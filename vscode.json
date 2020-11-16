@@ -37,7 +37,8 @@
     "<C-w>": false,
     "<C-j>": false,
     "<C-b>": false,
-    "<C-d>": false
+    "<C-d>": false,
+    "<C-c>": false
   },
   "git.autofetch": true,
   "go.lintTool": "golangci-lint",
