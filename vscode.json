@@ -36,7 +36,8 @@
   "vim.handleKeys": {
     "<C-w>": false,
     "<C-j>": false,
-    "<C-b>": false
+    "<C-b>": false,
+    "<C-d>": false
   },
   "git.autofetch": true,
   "go.lintTool": "golangci-lint",
